@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sleeping cat",
+    "description": "In this picture the cat is sleeping.",
+    "address": "https://placecats.com/450/500"
+  },
+  {
+    "name": "Sleeping cat",
+    "description": "In this picture the cat is sleeping.",
+    "address": "https://placecats.com/600/500"
+  },
+  {
+    "name": "Sleeping cat",
+    "description": "In this picture the cat is sleeping.",
+    "address": "https://placecats.com/700/500"
+  },
+  {
+    "name": "Sleeping cat",
+    "description": "In this picture the cat is lying.",
+    "address": "https://placecats.com/bella/300/200"
+  }
+]
